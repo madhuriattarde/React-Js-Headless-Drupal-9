@@ -26,7 +26,14 @@
     margin: 0 1rem;
     color: white;
   }
-
+  .article__id
+  {
+    background: #000;
+    padding: 6px;
+    text-align: center;
+    border-radius: 35px;
+    color: #FFF;
+ }
   .article__name
    {
     display: flex;
